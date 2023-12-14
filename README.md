@@ -1,3 +1,6 @@
+!! This code has a built-in leak because I mallocked the static variable. 
+For a secure code that will not leak even if the program is forced to stop before the end, see the "heap_static" branch. 
+
 The Get Next Line project from 42 School !
 
 The goal of this program is to read from a file or the standard entry and return the content line by line until it reaches the end of the file.
