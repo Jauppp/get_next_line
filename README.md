@@ -1,5 +1,5 @@
 !! This code has a built-in leak because I mallocked the static variable. 
-For a secure code that will not leak even if the program is forced to stop before the end, see the "heap_static" branch. 
+For a secure code that will not leak even if the program is forced to stop before the end, see files in "WORKING FILES"
 
 The Get Next Line project from 42 School !
 
